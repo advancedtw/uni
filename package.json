@@ -37,6 +37,7 @@
     "react-native-reanimated": "~3.16.1",
     "react-native-safe-area-context": "4.11.0",
     "react-native-screens": "4.0.0-beta.14",
+    "react-native-unistyles": "^2.10.0",
     "react-native-web": "~0.19.13"
   },
   "devDependencies": {
@@ -49,5 +50,8 @@
     "react-test-renderer": "18.3.1",
     "typescript": "~5.3.3"
   },
-  "private": true
+  "private": true,
+  "volta": {
+    "node": "20.18.0"
+  }
 }
